@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "FERDIAN IFKARSYAH",
+    "email": "ferdian.ifkarsyah@gmail.com",
+    "phone": "+62895 605184009",
+    "location": "Jakarta, Indonesia",
+    "linkedin": "https://linkedin.com/in/ifkarsyah",
+    "github": "https://github.com/Ifkarsyah",
+    "website": "https://ifkarsyah.github.io"
+  },
+  "summary": null,
+  "experience": [
+    {
+      "company": "StraitsX",
+      "title": "Senior Engineer, Data Infrastructure",
+      "location": "Jakarta, Indonesia",
+      "start_date": "May 2024",
+      "end_date": "Present",
+      "bullets": [
+        "Replaced expensive batch RDS snapshot ingestion pipeline with real-time CDC → BigQuery across 800+ PostgreSQL/MySQL tables, improving data latency while reducing monthly spend by $8,000.",
+        "Upgraded Airflow from Composer 2 to Composer 3, modernizing underlying Python runtimes, and system packages while maintaining backward compatibility for more than +100 DAGs.",
+        "Led cost observability and optimization initiative by implementing a monitoring dashboard and review cycles, reducing BigQuery slot usage by 527 hours/day and saving $1.5K/month by partitioning large tables.",
+        "Deployed Apache Spark on GCP to enable DBT Python models, previously impossible due to BigQuery’s SQL-only limitation—unlocking more flexible, scalable transformation logic for the data team."
+      ]
+    },
+    {
+      "company": "Xendit",
+      "title": "L4 Data Infrastructure Engineer",
+      "location": "Remote",
+      "start_date": "Oct 2022",
+      "end_date": "March 2024",
+      "bullets": [
+        "Achieved $7,400/month cost reduction by analyzing network traffic with Datadog and migrating Trino on Kubernetes from a multizone to an active-standby architecture.",
+        "Improved clickstream analysis speed by migrating from batch to real-time processing with Kafka, implementing JavaScript event tracker, transforming events via Spark Streaming, and delivering insights to Databricks.",
+        "Created Databricks notebook templates with integrated MLflow tracking, enabling data scientists to rapidly prototype and monitor experiments with standardized logging, metrics, and artifact storage.",
+        "Created a custom Trino logging plugin in Java to track query ownership and identifying high-cost users."
+      ]
+    },
+    {
+      "company": "Xendit",
+      "title": "L3 Data Engineer",
+      "location": null,
+      "start_date": "Oct 2021",
+      "end_date": "Sep 2022",
+      "bullets": [
+        "Developed an extensible, config-driven ingestion framework using the Strategy pattern, orchestrated via FastAPI as the backend layer, enabling data consumers to trigger pipelines through simple YAML configurations. Inte- grated 10+ sources including PostgreSQL, MongoDB, Jira, Zendesk, CleverTap, and Facebook Ads.",
+        "Reduced manual COGS calculation from 3 days to less than one hour and guaranteed rates auditability by implementing Slowly Changing Dimension (SCD) logic within scalable DBT models.",
+        "Implemented Infrastructure as Code (IaaC) principles with Terraform to automate provisioning of production resources (e.g., Spark clusters, AWS IAM roles), ensuring auditability and environment parity."
+      ]
+    },
+    {
+      "company": "Xendit",
+      "title": "L2 Junior Data Engineer",
+      "location": null,
+      "start_date": "Mar 2021",
+      "end_date": "Sep 2021",
+      "bullets": [
+        "Consolidated 2,000+ lines of user-contributed PySpark code from Databricks notebooks into shared-library.",
+        "Developed a CI/CD validation for DBT and Looker to enforce partitioning and prevent inefficient deployments."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bandung Institute of Technology",
+      "degree": "B.S.",
+      "field": "Computer Science",
+      "start_date": "Aug 2017",
+      "end_date": "Oct 2021",
+      "gpa": null,
+      "notes": [
+        "Lab Assistant: KU1102 - Introduction to Information Technology (2019)"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [],
+    "frameworks": [],
+    "databases": [],
+    "tools": [],
+    "cloud": [],
+    "other": []
+  },
+  "projects": [
+    {
+      "name": "Ifkarsyah’s Garden",
+      "description": "Digital garden on data infrastructure, platform, and backend systems.",
+      "technologies": []
+    },
+    {
+      "name": "Room Finder ITB",
+      "description": "Developed a high-usage public tool (5000+ students) for navigating campus classes.",
+      "technologies": []
+    }
+  ],
+  "achievements": [
+    "[National] First Place, Tokopedia Hackathon DevCamp 2021 (4000+ contestants)",
+    "[Regional] Finalist (Top 50), ACM-ICPC Asia Jakarta Regional 2019."
+  ]
+}

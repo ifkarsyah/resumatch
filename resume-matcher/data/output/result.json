@@ -1,0 +1,35 @@
+{
+  "missing_tools": [
+    "Flink",
+    "Azure"
+  ],
+  "found_tools": [
+    "Kafka",
+    "Spark",
+    "Terraform",
+    "AWS",
+    "GCP"
+  ],
+  "relevance_score": 8.530805687203792,
+  "matched_keywords": [
+    "across",
+    "consumers",
+    "data",
+    "days",
+    "environment",
+    "facebook",
+    "including",
+    "infrastructure",
+    "kafka",
+    "pipelines",
+    "platform",
+    "processing",
+    "spark",
+    "systems",
+    "team",
+    "terraform",
+    "through",
+    "using"
+  ],
+  "total_job_keywords": 211
+}

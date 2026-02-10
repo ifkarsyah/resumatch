@@ -1,0 +1,40 @@
+{
+  "country": "GB",
+  "created_at": 1704896861111,
+  "description": "About Fresha\n\nFresha is the leading marketplace platform for beauty & wellness trusted by millions of consumers and businesses worldwide. Fresha is used by 130,000+ businesses and 450,000+ stylists and professionals worldwide, processing over 1 billion appointments to date.\n\nThe company is headquartered in London, United Kingdom, with 15 global offices located across North America, EMEA and APAC.\n\nFresha allows consumers to discover, book and pay for beauty and wellness appointments with local businesses via its marketplace, while beauty and wellness businesses and professionals use an all-in-one platform to manage their entire operations with an intuitive business software and financial technology solutions.\n\nFresha’s ecosystem gives merchants everything they need to run their business seamlessly by facilitating appointment bookings, point-of-sale, customer records management, marketing automation, loyalty, beauty products inventory and team management.\n\nThe consumer marketplace unlocks revenue potential for partner businesses by leveraging the power of online bookings and automated marketing through mobile apps and advanced integrations with major tech brands including Instagram, Facebook and Google\n\n\nRole overview\n\nGiven our exciting and progressive growth plans, we are looking for a skilled and experienced Senior Data Engineer to join our team. This role will report to the Head of Data & Infrastructure and play a key part in levelling up our infrastructure and data pipelines.\n\nThe ideal candidate will have a strong understanding of Kafka, Spark, Flink, and standard computer science concepts. They will also be a team player with excellent communication and problem-solving skills. \n\nWe seek someone comfortable working with highly available, always-on systems, applying changes in a backwards-compatible fashion, without downtimes, while guaranteeing consistency and reliability, always with the customer in mind.\n\nThis role is perfect for someone who thrives in a fast-paced environment, enjoys independent work, loves a challenge, and is eager to make a significant impact.\n\nTo foster a collaborative environment that thrives on face-to-face interactions and teamwork, all Fresha employees work from our dog friendly office four days per week, with the flexibility to work remotely one day each week. London office: The Bower, 207, 211 Old St, London EC1V 9NR\n",
+  "location": "London",
+  "requirements": [
+    "Bachelor's degree in Computer Science or a related field",
+    "5+ years of experience as a Data Engineer",
+    "Strong understanding of Kafka, Spark, Flink, and standard computer science concepts",
+    "Experience with cloud-based infrastructure (AWS, Azure, GCP)",
+    "Excellent communication and problem-solving skills",
+    "Ability to work independently and as part of a team"
+  ],
+  "responsibilities": [
+    "Design, develop, and maintain data pipelines using Kafka and other tools",
+    "Build and maintain infrastructure using Terraform",
+    "Troubleshoot and resolve data engineering issues",
+    "Work with other teams to ensure that data is available and accessible",
+    "Stay up-to-date on the latest data engineering trends and technologies",
+    "Take part in decisions related to how we undertake new projects",
+    "Gather requirements and scope out projects with the rest of the team"
+  ],
+  "salary_range": {
+    "currency": "GBP",
+    "interval": "per-year-salary",
+    "max": 110000.0,
+    "min": 50000.0
+  },
+  "title": "Data Engineer",
+  "tools": [
+    "Kafka",
+    "Spark",
+    "Flink",
+    "Terraform",
+    "AWS",
+    "GCP",
+    "Azure"
+  ],
+  "url": "https://jobs.lever.co/fresha/90d9bf8b-0f6b-49a3-867c-6f200075cdfb"
+}
